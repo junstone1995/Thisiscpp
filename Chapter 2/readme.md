@@ -80,4 +80,3 @@ namespace 이름
 7. using 선언된 네임스페이스 혹은 전역 네임스페이스, 단 두곳에 동일한 식별자가 존재할 경우 컴파일 오류 발생
 ```
 *Goole Style Guide* :이 책을 읽고 읽어보기
-#42SEOUL/cpp
