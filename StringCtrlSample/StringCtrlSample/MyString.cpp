@@ -28,7 +28,7 @@ int CMyString::SetString(const char *pszParam)
     return ((int)nLength);
 }
 
-const char* CMyString::GetString()
+const char* CMyString::GetString() const
 {
     return m_pszData;
 }

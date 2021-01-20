@@ -7,6 +7,11 @@
 
 #include "MyString.hpp"
 
+void TestFunc(const CMyString &param)
+{
+    cout << param.GetString() << endl;
+}
+
 int main(int argc, const char * argv[])
 {
     CMyString strData;
